@@ -1,0 +1,37 @@
+{
+  "username": "rakhmanadhiatma",
+  "album": [
+    "KiteWallpaperHD"
+  ],
+  "init_jumlah_photo": 100,
+  "pub_id": "pub-1943043448287687",
+  "app_id": "ca-app-pub-1943043448287687~3957544152",
+  "admob_banner_id": "ca-app-pub-1943043448287687/4060458268",
+  "admob_interstitial_id": "ca-app-pub-1943043448287687/9121213259",
+  "admob_native_id": "ca-app-pub-1943043448287687/2623253519",
+  "admob_rewared_id": "ca-app-pub-1943043448287687/4363710596",
+
+  "admob_hpk_1": "crypto",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "plastic surgery",
+  "admob_hpk_4": "mobile",
+  "admob_hpk_5": "insurance",
+
+  "fan_banner_id": "xxxxx",
+  "fan_interstitial_id": "xxxxxx",
+  "fan_native_id": "xxxxx",
+
+  "mopub_banner_id": "xxxxx",
+  "mopub_interstitial_id": "xxxxxx",
+  "mopub_native_id": "xxxxx",
+
+  "interstitial_inverval": 3,
+  "rewarded_photo_inverval": 3,
+
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "ADMOB",
+    "MOPUB",
+    "FAN"
+  ]
+}
