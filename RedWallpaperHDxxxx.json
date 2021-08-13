@@ -24,9 +24,8 @@
   "mopub_banner_id": "xxxxx",
   "mopub_interstitial_id": "xxxxxx",
   "mopub_native_id": "xxxxx",
-
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 25,
 
   "primary_ads": "ADMOB",
   "list_ads": [
