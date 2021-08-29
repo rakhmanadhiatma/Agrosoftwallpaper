@@ -1,0 +1,37 @@
+{
+  "username": "rakhmanadhiatma",
+  "album": [
+    "JellyfishWallpaperHD"
+  ],
+  "init_jumlah_photo": 100,
+  "pub_id": "pub-7316385158012425",
+  "app_id": "ca-app-pub-7316385158012425~5090669560",
+  "admob_banner_id": "ca-app-pub-7316385158012425/9014792079",
+  "admob_interstitial_id": "ca-app-pub-7316385158012425/2449383725",
+  "admob_native_id": "ca-app-pub-7316385158012425/2190842357",
+  "admob_rewared_id": "ca-app-pub-7316385158012425/2257812037",
+
+  "admob_hpk_1": "crypto",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "plastic surgery",
+  "admob_hpk_4": "mobile",
+  "admob_hpk_5": "insurance",
+
+  "fan_banner_id": "xxxxx",
+  "fan_interstitial_id": "xxxxxx",
+  "fan_native_id": "xxxxx",
+
+  "mopub_banner_id": "xxxxx",
+  "mopub_interstitial_id": "xxxxxx",
+  "mopub_native_id": "xxxxx",
+
+  "interstitial_inverval": 3,
+  "rewarded_photo_inverval": 25,
+
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "ADMOB",
+    "MOPUB",
+    "FAN"
+  ]
+}
