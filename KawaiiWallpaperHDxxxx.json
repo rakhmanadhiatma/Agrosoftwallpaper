@@ -4,12 +4,12 @@
     "KawaiiWallpaperHD"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7316385158012425",
-  "app_id": "ca-app-pub-7316385158012425~5090669560",
-  "admob_banner_id": "ca-app-pub-7316385158012425/9014792079",
-  "admob_interstitial_id": "ca-app-pub-7316385158012425/2449383725",
-  "admob_native_id": "ca-app-pub-7316385158012425/2190842357",
-  "admob_rewared_id": "ca-app-pub-7316385158012425/2257812037",
+  "pub_id": "pub-2818728238312607",
+  "app_id": "ca-app-pub-2818728238312607~1619677542",
+  "admob_banner_id": "ca-app-pub-2818728238312607/9205985801",
+  "admob_interstitial_id": "ca-app-pub-2818728238312607/5266740795",
+  "admob_native_id": "ca-app-pub-2818728238312607/1135924099",
+  "admob_rewared_id": "ca-app-pub-2818728238312607/7701332447",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -17,16 +17,16 @@
   "admob_hpk_4": "mobile",
   "admob_hpk_5": "insurance",
 
-  "fan_banner_id": "xxxxx",
-  "fan_interstitial_id": "xxxxxx",
-  "fan_native_id": "xxxxx",
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
 
-  "mopub_banner_id": "xxxxx",
-  "mopub_interstitial_id": "xxxxxx",
-  "mopub_native_id": "xxxxx",
+  "mopub_banner_id": "",
+  "mopub_interstitial_id": "",
+  "mopub_native_id": "",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 25,
+  "rewarded_photo_inverval": 3,
 
   "primary_ads": "ADMOB",
   "list_ads": [
